@@ -1,0 +1,71 @@
+{
+  "app_name": "Doğanın Sesi",
+  "auth": {
+    "login": "Giriş Yap",
+    "register": "Kayıt Ol",
+    "logout": "Çıkış Yap",
+    "email": "E-posta",
+    "password": "Şifre",
+    "name": "Ad Soyad",
+    "invite_code": "Davet Kodu",
+    "no_account": "Hesabın yok mu?",
+    "have_account": "Zaten hesabın var mı?",
+    "invalid_invite": "Geçersiz davet kodu"
+  },
+  "tabs": {
+    "feed": "Akış",
+    "events": "Etkinlikler",
+    "gallery": "Galeri",
+    "live": "Sahadan Canlı",
+    "profile": "Profil"
+  },
+  "feed": {
+    "title": "Paylaşımlar",
+    "new_post": "Yeni Paylaşım",
+    "add_photo": "Fotoğraf Ekle",
+    "add_location": "Konum Ekle",
+    "placeholder": "Gözlemini paylaş..."
+  },
+  "events": {
+    "title": "Etkinlik Programı",
+    "complete": "Tamamla",
+    "completed": "Tamamlandı",
+    "next_event": "Sıradaki Etkinlik",
+    "notification_msg": "{{current}} başarıyla tamamlandı! Lütfen bir sonraki etkinlik alanına: {{next}}"
+  },
+  "gallery": {
+    "title": "Sanat & Felsefe Galerisi",
+    "upload": "Eser Yükle"
+  },
+  "live": {
+    "title": "Sahadan Canlı",
+    "upload_video": "Video Yükle"
+  },
+  "badges": {
+    "title": "Rozetlerim",
+    "explorer": "Doğa Kaşifi",
+    "interaction": "Etkileşim Ustası",
+    "field_expert": "Saha Uzmanı",
+    "art_soul": "Sanat Ruhu",
+    "project_star": "Proje Yıldızı"
+  },
+  "roles": {
+    "admin": "Süper Yetkili",
+    "trainer": "Eğitmen",
+    "guide": "Rehber",
+    "volunteer": "Gönüllü",
+    "student": "Öğrenci",
+    "parent": "Veli"
+  },
+  "common": {
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "loading": "Yükleniyor...",
+    "error": "Bir hata oluştu",
+    "like": "Beğen",
+    "comment": "Yorum",
+    "send": "Gönder"
+  }
+}

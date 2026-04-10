@@ -1,0 +1,71 @@
+{
+  "app_name": "Voice of Nature",
+  "auth": {
+    "login": "Log In",
+    "register": "Sign Up",
+    "logout": "Log Out",
+    "email": "Email",
+    "password": "Password",
+    "name": "Full Name",
+    "invite_code": "Invite Code",
+    "no_account": "Don't have an account?",
+    "have_account": "Already have an account?",
+    "invalid_invite": "Invalid invite code"
+  },
+  "tabs": {
+    "feed": "Feed",
+    "events": "Events",
+    "gallery": "Gallery",
+    "live": "Live from Field",
+    "profile": "Profile"
+  },
+  "feed": {
+    "title": "Posts",
+    "new_post": "New Post",
+    "add_photo": "Add Photo",
+    "add_location": "Add Location",
+    "placeholder": "Share your observation..."
+  },
+  "events": {
+    "title": "Event Schedule",
+    "complete": "Complete",
+    "completed": "Completed",
+    "next_event": "Next Event",
+    "notification_msg": "{{current}} completed successfully! Please proceed to the next activity: {{next}}"
+  },
+  "gallery": {
+    "title": "Art & Philosophy Gallery",
+    "upload": "Upload Artwork"
+  },
+  "live": {
+    "title": "Live from Field",
+    "upload_video": "Upload Video"
+  },
+  "badges": {
+    "title": "My Badges",
+    "explorer": "Nature Explorer",
+    "interaction": "Interaction Master",
+    "field_expert": "Field Expert",
+    "art_soul": "Art Soul",
+    "project_star": "Project Star"
+  },
+  "roles": {
+    "admin": "Super Admin",
+    "trainer": "Trainer",
+    "guide": "Guide",
+    "volunteer": "Volunteer",
+    "student": "Student",
+    "parent": "Parent"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "like": "Like",
+    "comment": "Comment",
+    "send": "Send"
+  }
+}
